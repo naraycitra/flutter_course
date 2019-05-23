@@ -28,3 +28,4 @@ class Profiles extends StatelessWidget {
       itemCount: profiles.length ,
     );
   }
+}
